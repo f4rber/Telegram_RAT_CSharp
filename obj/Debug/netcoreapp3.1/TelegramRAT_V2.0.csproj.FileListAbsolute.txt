@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT_V2.0.exe
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT_V2.0.csprojAssemblyReference.cache
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT_V2.0.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT_V2.0.AssemblyInfo.cs
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT_V2.0.csproj.CopyComplete

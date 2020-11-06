@@ -1,0 +1,136 @@
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.exe
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.deps.json
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.runtimeconfig.json
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.runtimeconfig.dev.json
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.pdb
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Accessibility.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\System.Deployment.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\ru\System.Windows.Forms.resources.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\ru\System.Deployment.resources.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\ru\System.Runtime.Serialization.Formatters.Soap.resources.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.csprojAssemblyReference.cache
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.AssemblyInfo.cs
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.csproj.CopyComplete
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.pdb
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\OpenCvSharp.Blob.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\OpenCvSharp.Extensions.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\OpenCvSharp.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\opencv_videoio_ffmpeg420_64.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\User\Desktop\telegramRAT_V10.02.2020\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\opencv_videoio_ffmpeg420.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.exe
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.deps.json
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.runtimeconfig.json
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.runtimeconfig.dev.json
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.pdb
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\OpenCvSharp.Blob.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\OpenCvSharp.Extensions.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\OpenCvSharp.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\opencv_videoio_ffmpeg420_64.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\opencv_videoio_ffmpeg420.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Accessibility.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\System.Deployment.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\ru\System.Windows.Forms.resources.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\ru\System.Deployment.resources.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\ru\System.Runtime.Serialization.Formatters.Soap.resources.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.AssemblyInfo.cs
+C:\Users\User\Desktop\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.csproj.CopyComplete
+C:\Users\User\Desktop\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.dll
+C:\Users\User\Desktop\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.pdb
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.exe
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.deps.json
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.runtimeconfig.json
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.runtimeconfig.dev.json
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\TelegramRAT.pdb
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\OpenCvSharp.Blob.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\OpenCvSharp.Extensions.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\OpenCvSharp.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\opencv_videoio_ffmpeg420_64.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\opencv_videoio_ffmpeg420.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\Accessibility.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\System.Deployment.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\ru\System.Windows.Forms.resources.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\ru\System.Deployment.resources.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\bin\Debug\netcoreapp3.1\ru\System.Runtime.Serialization.Formatters.Soap.resources.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.AssemblyInfo.cs
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.csproj.CopyComplete
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.dll
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.pdb
+C:\Users\User\Desktop\CSharp\TelegramRAT_V2.0\obj\Debug\netcoreapp3.1\TelegramRAT.genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\TelegramRAT.exe
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\TelegramRAT.deps.json
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\TelegramRAT.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\TelegramRAT.runtimeconfig.dev.json
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\TelegramRAT.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\TelegramRAT.pdb
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\OpenCvSharp.Blob.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\OpenCvSharp.Extensions.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\OpenCvSharp.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\opencv_videoio_ffmpeg420_64.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\opencv_videoio_ffmpeg420.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\Accessibility.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\System.Deployment.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\ru\System.Windows.Forms.resources.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\ru\System.Deployment.resources.dll
+C:\Users\User\Desktop\Новая папка (2)\bin\Debug\netcoreapp3.1\ru\System.Runtime.Serialization.Formatters.Soap.resources.dll
+C:\Users\User\Desktop\Новая папка (2)\obj\Debug\netcoreapp3.1\TelegramRAT.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (2)\obj\Debug\netcoreapp3.1\TelegramRAT.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка (2)\obj\Debug\netcoreapp3.1\TelegramRAT.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка (2)\obj\Debug\netcoreapp3.1\TelegramRAT.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (2)\obj\Debug\netcoreapp3.1\TelegramRAT.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка (2)\obj\Debug\netcoreapp3.1\TelegramRAT.dll
+C:\Users\User\Desktop\Новая папка (2)\obj\Debug\netcoreapp3.1\TelegramRAT.pdb
+C:\Users\User\Desktop\Новая папка (2)\obj\Debug\netcoreapp3.1\TelegramRAT.genruntimeconfig.cache
