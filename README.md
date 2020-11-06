@@ -34,5 +34,7 @@ Telegram RAT written in C#
     Created by F4RB3R
 ```
 
+In file Configuration.cs add your bot token and in Program.cs add your ID, after it's done you can compile an executable
+
 ![Screenshot](Screenshot.jpg)
 
